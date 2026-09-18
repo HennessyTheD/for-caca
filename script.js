@@ -1,4 +1,4 @@
-const message = `Hiii Taraa.. i just want u to know that..\nI like u very muchh, I always think about you all the times.\n\nThere's some words that even i couldn't describe it, but... if you're Juliet, then i wanna be your Romeo. I hope u understand what i just type. hehe\n\nI wanna say Thank You Sooo MUCHHH for accepted my friend request raa. You're very cutee, idk how to describe how cute and pretty you are.. im so lucky to know you\n\nAnyway, i cant wait to hangout with u.. just the two of us.`;
+const message = `Hiii Cacaa.. i just want u to know that..\nU really did well for todayy, not everyone can handle things like u do\n\nlet me know if u need anything to cheer u up, i'll do my bestt. and there's something that i wanna say\n\nI wanna say Thank You Sooo MUCHHH for accepted my friend request caa. You're very cutee, i feel lucky to know you\n\nAnyway, i cant wait to hangout to see u!`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
